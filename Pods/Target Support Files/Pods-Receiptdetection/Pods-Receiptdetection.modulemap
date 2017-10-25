@@ -1,0 +1,6 @@
+framework module Pods_Receiptdetection {
+  umbrella header "Pods-Receiptdetection-umbrella.h"
+
+  export *
+  module * { export * }
+}
